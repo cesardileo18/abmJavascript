@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#form{
+    margin: 2% 30%;
+}
+main{
+    min-height: calc(100vh - 100px);
+}
+.contenedor{
+    padding: 15px;
+}
